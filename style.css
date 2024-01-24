@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    height:60px ;
+    background-color:black;
+    color:white;
+}
+.nav-logo{
+    height:50px ;
+    width:113px;   
+}
+.logo{
+    background-image: url("logoamazon.jpeg");
+    background-size: cover;
+    height:100%;
+    width: 100%;
+}
+.border{
+    border:2px solid transparent
+}
+.border:hover{
+    border: 2px solid white;
+}
