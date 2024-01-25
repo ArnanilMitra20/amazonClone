@@ -267,3 +267,113 @@ a{
     background-image: url("product8.jpg");
     background-size: cover;
 }
+#nine{
+    height:305px;
+    width:1435px;
+    top: 1150px;
+    margin-left: 37px;
+    margin-right: 10px;
+    background-color: white;
+    position: absolute;
+}
+.pic{
+    height:230px;
+    width:230px;
+    border: #0F1111;
+}
+#para{
+    padding-top:15px;
+    padding-left:15px;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+#setup{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 0px;
+    flex-wrap: wrap;
+}
+#p9{
+    background-image: url("product9.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p10{
+    background-image: url("product10.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p11{
+    background-image: url("product11.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p12{
+    background-image: url("product12.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p13{
+    background-image: url("product13.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p14{
+    background-image: url("product14.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#ten{
+    height:305px;
+    width:1435px;
+    top: 1485px;
+    margin-left: 37px;
+    margin-right: 10px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+}
+.pic1{
+    height: 230px;
+    width: 170px;
+    /* border:2px solid black; */
+}
+#p15{
+    background-image: url("product15.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p16{
+    background-image: url("product16.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p17{
+    background-image: url("product17.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p18{
+    background-image: url("product18.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p19{
+    background-image: url("product19.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p20{
+    background-image: url("product20.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p21{
+    background-image: url("product21.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#p22{
+    background-image: url("product22.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
