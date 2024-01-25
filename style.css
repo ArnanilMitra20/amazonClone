@@ -146,7 +146,7 @@
     font-size: 1rem;
 }
 .background{
-    height: 4280px;
+    height: 1900px;
     padding-left: 197px;
     padding-right: 197px;
     position: relative;
@@ -376,4 +376,25 @@ a{
     background-image: url("product22.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+}
+.pre-end{
+    height:50px;
+    width:100vw;
+    background-color: #0F1111;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.end{
+    width:100vw;
+    height:300px;
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+}
+.head1{
+    margin-top: 15px;
+    font-weight: bold;
 }
